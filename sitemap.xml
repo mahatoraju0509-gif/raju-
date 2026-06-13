@@ -1,9 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- MAIN HOME - Raju Mahato Nepal Top App Developer -->
   <url>
-    <loc>https://raju-portfolio-2026.netlify.app/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://rajumahato.it.com/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ne" href="https://rajumahato.it.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rajumahato.it.com/"/>
+    <image:image>
+      <image:loc>https://rajumahato.it.com/images/raju-mahato.jpg</image:loc>
+      <image:title>Raju Mahato - Nepal Top App Developer and Number 1 Developer</image:title>
+      <image:caption>Raju Mahato - Nepal Top App Developer. EduPath AI ra Thagi Satark app founder. Former PM Madhav Kumar Nepal ra Former Minister Bharat Prasad Shah ko official website developer. 32 Quiz Competitions Champion ra Team Captain. Chess Champion. KCG Japan IT Student. Yamunamai-1, Rautahat, Madhesh Province, Nepal.</image:caption>
+      <image:geo_location>Rautahat, Madhesh Province, Nepal</image:geo_location>
+    </image:image>
   </url>
+
+  <!-- ABOUT - Raju Mahato Profile -->
+  <url>
+    <loc>https://rajumahato.it.com/#about</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.98</priority>
+    <image:image>
+      <image:loc>https://rajumahato.it.com/images/raju-mahato.jpg</image:loc>
+      <image:title>Raju Mahato - Nepal Top App Developer Profile</image:title>
+      <image:caption>Raju Mahato (Digambar Mahato / Raju Mahato Nuniya) - Nepal Top App Developer. Born 2002 August 25. Yamunamai-1, Rautahat, Madhesh, Nepal. KCG Japan IT Student.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ACHIEVEMENTS - Quiz Champion, App Developer -->
+  <url>
+    <loc>https://rajumahato.it.com/#achievements</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.98</priority>
+    <image:image>
+      <image:loc>https://rajumahato.it.com/images/raju-mahato.jpg</image:loc>
+      <image:title>Raju Mahato Achievements - 32 Quiz Champion, Nepal Top Developer, EduPath AI, Thagi Satark</image:title>
+      <image:caption>Raju Mahato - 32 Quiz Competitions ma First Place ra Team Captain. Kathmandu Valley dekhi Biratnagar Jyacess Tasty Tasty Champion. Chess Champion 4 years. EduPath AI ra Thagi Satark founder. 300+ martyr families supported.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- SKILLS - Flutter, React, Firebase, AI -->
+  <url>
+    <loc>https://rajumahato.it.com/#skills</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROJECTS - EduPath AI, Thagi Satark, madhavnepal.online -->
+  <url>
+    <loc>https://rajumahato.it.com/#projects</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.98</priority>
+    <image:image>
+      <image:loc>https://rajumahato.it.com/images/raju-mahato.jpg</image:loc>
+      <image:title>Raju Mahato Projects - EduPath AI, Thagi Satark, madhavnepal.online, bharatshah.online</image:title>
+      <image:caption>Nepal Top App Developer Raju Mahato ko projects: EduPath AI (Nepal First AI Study Abroad App), Thagi Satark (Nepal First AI Fraud App), madhavnepal.online (Former PM Madhav Kumar Nepal), bharatshah.online (Former Minister Bharat Prasad Shah), Himalayan Public School website.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://rajumahato.it.com/#contact</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- EDUCATION -->
+  <url>
+    <loc>https://rajumahato.it.com/#education</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- DEVELOPER / FOOTER -->
+  <url>
+    <loc>https://rajumahato.it.com/#developer</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://rajumahato.it.com/images/raju-mahato.jpg</image:loc>
+      <image:title>Raju Mahato - Nepal Top App Developer - rajumahato.it.com</image:title>
+      <image:caption>Raju Mahato - Nepal Top App Developer ra Number 1 Developer. EduPath AI ra Thagi Satark founder. Former PM Madhav Kumar Nepal website developer. rajumahato.it.com</image:caption>
+    </image:image>
+  </url>
+
+  <!-- FOOTER -->
+  <url>
+    <loc>https://rajumahato.it.com/#footer</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
