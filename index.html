@@ -926,8 +926,15 @@
     (function() {
       window.addEventListener('load', function() {
         const preloader = document.querySelector('.preloader');
-        if (preloader) preloader.classList.add('hidden');
+        if (preloader) {
+          preloader.classList.add('hidden');
+          preloader.style.display = 'none';
+        }
       });
+      setTimeout(function() {
+        const preloader = document.querySelector('.preloader');
+        if (preloader) preloader.style.display = 'none';
+      }, 3000);
 
       const cursor = document.querySelector('.cursor');
       const follower = document.querySelector('.cursor-follower');
